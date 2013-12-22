@@ -13,3 +13,12 @@ Project Requirements
 * Should support MacOS and Linux.
 * May support Windows.
 * May have minimal gui for more complex tasks (i.e. switching context) and feedback (i.e. displaying hints).
+
+File Structure
+==============
+
+~/.cmd-clip
+ |
+ +- My Task
+    |
+    +- clip.txt
