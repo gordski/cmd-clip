@@ -17,8 +17,8 @@ Project Requirements
 File Structure
 ==============
 
-~/.cmd-clip
- |
- +- My Task
-    |
-    +- clip.txt
+    ~/.cmd-clip
+     |
+     +- My Task
+        |
+        +- clip.txt
