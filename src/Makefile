@@ -1,5 +1,5 @@
 APP = cmd-clip
-OBJS = clip.o main.o
+OBJS = clip.o searcher.o main.o
 
 all: $(APP)
 
